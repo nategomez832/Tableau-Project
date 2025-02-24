@@ -10,5 +10,6 @@ I created a Tableau Dashboard of the European Union Emissions Trading System Dat
 ![dashboard for project](https://github.com/user-attachments/assets/8d1c4b6f-b50d-4bb6-a91f-2baed73b7fe7)
 
 
-<h2> [![You can click here to watch a Youtube video explaining the dashboard in more detail.](https://youtu.be/pKSwaCQqbpg)]
+<h2> You can click on the link below to watch a Youtube video explaining the dashboard in more detail.
+  https://youtu.be/pKSwaCQqbpg
 
